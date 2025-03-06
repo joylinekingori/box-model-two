@@ -1,0 +1,215 @@
+#facebook {
+    font-size: 32px;
+    background-color: whitesmoke;
+    padding: 4px 25px 4px 25px;
+    border-radius: 6px;
+
+
+}
+
+.signup {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
+
+#apple {
+    font-size: 32px;
+    background-color: whitesmoke;
+    padding: 4px 26px 4px 26px;
+    color: black;
+    border-radius: 6px;
+
+}
+
+.google {
+    background-color: white;
+    padding: 2px 20px 2px 20px;
+    border-radius: 6px;
+
+
+}
+
+#lines {
+    position: relative;
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 20x;
+}
+
+#lines:before {
+    content: " ";
+    display: block;
+    height: 2px;
+    width: 180px;
+    position: absolute;
+    top: 40%;
+    background: black
+}
+
+#lines:after {
+    content: " ";
+    height: 2px;
+    width: 180px;
+    background: black;
+    display: block;
+    position: absolute;
+    top: 40%;
+    right: 0;
+}
+
+.signup_form {
+
+    width: 90%;
+    padding: 25px;
+    border-left: solid palevioletred;
+
+}
+
+.link {
+    color: #B53389;
+}
+
+.signup_form input {
+    padding: 10px 10px;
+    width: 94%;
+    margin: 10px 0;
+    margin-left: 5px;
+    background-color: rgb(247, 247, 200);
+    border: none;
+    border-radius: 8px;
+
+
+}
+
+.signup_form button {
+    padding: 6px 6px;
+    margin: 10px;
+    width: 98%;
+    background: none;
+    border: none;
+    background-color: #b53389;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 160%;
+}
+
+.mycontainer {
+    display: flex
+}
+
+.main {
+    display: flex;
+    margin-left: 230px;
+    margin-top: 100px;
+    margin-right: 200px;
+    width: 1200px;
+
+
+
+
+}
+
+.container {
+    display: flex;
+    width: 97%;
+    margin: px 0;
+    gap: 60px;
+
+
+
+}
+
+
+
+.password-eye {
+    position: absolute;
+    top: 62%;
+    right: 520px;
+    transform: translateY(-90%);
+    cursor: pointer;
+}
+
+.password-eye0 {
+    position: absolute;
+    top: 53%;
+    right: 520px;
+    transform: translateY(-90%);
+    cursor: pointer;
+}
+
+
+
+
+*/dispay inside*/ .first {
+    display: block
+}
+
+.last {
+    display: block;
+
+
+}
+
+.container_last {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+
+}
+
+.signup_form label {
+    padding: 10px;
+}
+
+
+
+.body {
+    width: auto;
+    height: 500px;
+    background-color: rgb(245, 218, 227);
+}
+
+.heading {
+    font-size: 180%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #B53389;
+    text-align: justify;
+}
+
+.heading-two {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-image {
+    margin-left: 50px;
+    width: 530px;
+    height: 430px;
+
+}
+
+.heading {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-one {
+    width: 60%;
+    height: 300px;
+    text-align: center;
+    font-size: 13px;
+
+}
+
+a {
+    text-decoration: none;
+}
